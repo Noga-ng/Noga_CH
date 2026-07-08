@@ -68,4 +68,4 @@ Les options de requête supportées (extraits) : `link`, `method`, `data`, `head
   - publier le paquet sur npm.
 
 ## Licence
-À préciser (ex : MIT).
+MIT
